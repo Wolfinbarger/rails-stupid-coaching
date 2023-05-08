@@ -29,3 +29,9 @@
   padding-left: 4px;
   border-left: .25rem solid #DDDDDD;
  }
+
+ form {
+  display: flex;
+  size: 48px;
+  width: 30%;
+ }
